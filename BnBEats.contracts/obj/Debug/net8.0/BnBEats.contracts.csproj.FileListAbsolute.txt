@@ -1,0 +1,11 @@
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\bin\Debug\net8.0\BnBEats.contracts.deps.json
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\bin\Debug\net8.0\BnBEats.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\bin\Debug\net8.0\BnBEats.contracts.pdb
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.AssemblyInfoInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.AssemblyInfo.cs
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.csproj.CoreCompileInputs.cache
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\refint\BnBEats.contracts.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\BnBEats.contracts.pdb
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.contracts\obj\Debug\net8.0\ref\BnBEats.contracts.dll

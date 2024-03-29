@@ -1,0 +1,17 @@
+@host_address  = http://localhost:5079
+
+GET {{host_address}}/weatherforecast
+Accept: application/json
+
+
+### 
+
+GET {{host_address}}/api/Authentication/register
+Accept: application/json
+
+{
+    "firstname": "John",
+    "lastname": "Doe",
+    "email": "john@gmail.com",
+    "password": "123456"
+}

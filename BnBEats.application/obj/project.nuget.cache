@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "45+5ovNMPWb52Mm87E1SLj98nzpj6afSOh9u0gj2FT+cvY508GTL/9fIZyIF66lIIZQ0O64wxk5IWZ/UiWoqzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

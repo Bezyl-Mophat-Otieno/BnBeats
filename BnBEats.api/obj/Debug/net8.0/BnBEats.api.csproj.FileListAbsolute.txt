@@ -45,3 +45,5 @@ C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\obj\Debug\net8.0\ref
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\obj\Debug\net8.0\BnBEats.api.pdb
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\obj\Debug\net8.0\BnBEats.api.genruntimeconfig.cache
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\obj\Debug\net8.0\ref\BnBEats.api.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

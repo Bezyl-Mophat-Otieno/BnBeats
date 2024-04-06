@@ -11,13 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnBEats.contracts", "BnBEat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnBEats.infrastructure", "BnBEats.infrastructure\BnBEats.infrastructure.csproj", "{50B0BA1C-24F7-4C7E-B90A-AB4AF5E4D007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnBEats.domain", "BnBEats.domain\BnBEats.domain.csproj", "{04966895-591A-4B2F-8FF0-48B3A90A80F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CCD56EB8-58D0-449B-9EDB-948033472093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -36,5 +35,12 @@ Global
 		{50B0BA1C-24F7-4C7E-B90A-AB4AF5E4D007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B0BA1C-24F7-4C7E-B90A-AB4AF5E4D007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B0BA1C-24F7-4C7E-B90A-AB4AF5E4D007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04966895-591A-4B2F-8FF0-48B3A90A80F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04966895-591A-4B2F-8FF0-48B3A90A80F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04966895-591A-4B2F-8FF0-48B3A90A80F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04966895-591A-4B2F-8FF0-48B3A90A80F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

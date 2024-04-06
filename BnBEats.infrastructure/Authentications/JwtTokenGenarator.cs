@@ -3,6 +3,7 @@ using BnBEats.application;
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Microsoft.Extensions.Options;
 
 
 namespace BnBEats.infrastructure;
@@ -10,12 +11,18 @@ namespace BnBEats.infrastructure;
 public class JwtTokenGenarator : IJwtTokenGenerator
 {
 
+   private readonly JwtSettings _jwtSettings;
+
+    public JwtTokenGenarator(IOptions<JwtSettings> jwtOptionsSettings)
+    {
+        _jwtSettings = jwtOptionsSettings.Value;
+    }
 
     public string GenerateToken(Guid userId, string firstName, string lastName, string email)
     {
 
         var signingCredentials = new SigningCredentials(
-            new SymmetricSecurityKey(Encoding.UTF8.GetBytes("superSecretKey@345")),
+            new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret)),
             SecurityAlgorithms.HmacSha256);
 
         var claims = new[]
@@ -28,8 +35,8 @@ public class JwtTokenGenarator : IJwtTokenGenerator
 
         var token = new JwtSecurityToken(
             claims: claims,
-            audience: "BnBEats",
-            issuer: "BnBEats",
+            audience: _jwtSettings.Audience,
+            issuer: _jwtSettings.Issuer,
             expires: DateTime.UtcNow.AddMinutes(10),
             signingCredentials: signingCredentials);
             

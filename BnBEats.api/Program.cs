@@ -5,6 +5,7 @@ using BnBEats.infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
+    // Global Error handling using Filters
     // builder.Services.AddControllers(options=>options.Filters.Add<ErrorHandlingExceptionFilterAttribute>());
     builder.Services.AddControllers();
     // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -21,6 +22,7 @@ var app = builder.Build();
 {
     app.UseSwagger();
     app.UseSwaggerUI();    
+    // Global Error handling using Middlewares
     // app.UseMiddleware<ErrorHandlerMiddleware>();
     app.MapControllers();
     app.UseExceptionHandler("/error");

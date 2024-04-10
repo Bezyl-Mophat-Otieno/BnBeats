@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BnBEats.contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234332b76b8f060e0ff759e24f8f4d19072a21f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8f858ec8aec8841c2c032379a1288c6781a1c9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BnBEats.contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BnBEats.contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

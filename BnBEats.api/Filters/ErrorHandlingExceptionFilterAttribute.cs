@@ -12,6 +12,7 @@ public class ErrorHandlingExceptionFilterAttribute:ExceptionFilterAttribute
         {
             var problemDetails = new ProblemDetails
             {
+                Type = "https://tools.ietf.org/html/rfc7235#section-3.1",
                 Title = "Unauthorized Access",
                 Detail = context.Exception.Message,
                 Status = 401
@@ -24,6 +25,7 @@ public class ErrorHandlingExceptionFilterAttribute:ExceptionFilterAttribute
         {
             var problemDetails = new ProblemDetails
             {
+                Type = "https://tools.ietf.org/html/rfc7231#section-6.5.4",
                 Title = "Resource Not Found",
                 Detail = context.Exception.Message,
                 Status = 404
@@ -35,6 +37,7 @@ public class ErrorHandlingExceptionFilterAttribute:ExceptionFilterAttribute
         {
             var problemDetails = new ProblemDetails
             {
+                Type = "https://tools.ietf.org/html/rfc7231#section-6.5.1",
                 Title = "Bad Request",
                 Detail = context.Exception.Message,
                 Status = 400
@@ -46,6 +49,7 @@ public class ErrorHandlingExceptionFilterAttribute:ExceptionFilterAttribute
         {
             var problemDetails = new ProblemDetails
             {
+                Type = "https://tools.ietf.org/html/rfc7231#section-6.6.1",
                 Title = "Internal Server Error",
                 Detail = context.Exception.Message,
                 Status = 500

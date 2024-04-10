@@ -20,7 +20,7 @@ namespace BnBEata.application.Services.Authentication
         {
             // if( _userRepository.GetUserByEmail(email) is not null ){
                 
-                throw new BadRequestException("User already exists");
+                throw new DuplicateEmailException();
             // }
 
             User user = new User () {

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QXrYu3jE6DJg9kBWg3CXv42TfhpApri9PnJYa4JqGLx9VfGz1xndNJIZ0ULtdcOU7qIlfFZ2gUfxZ+qDTrUGOA==",
+  "dgSpecHash": "XR5mHmU9B0ujwEgM1AVQdGPeUiC1pryT2y7n5oPlbDkIdHOB92hdrrvXs7nEXAj1FkIKhpffNMK6AscyESGyNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

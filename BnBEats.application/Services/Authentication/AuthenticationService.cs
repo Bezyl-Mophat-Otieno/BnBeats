@@ -1,6 +1,7 @@
 using BnBEats.application;
 using BnBEats.application.Services.Authentication;
 using BnBEats.domain;
+using ErrorOr;
 
 namespace BnBEata.application.Services.Authentication 
 {
@@ -16,11 +17,10 @@ namespace BnBEata.application.Services.Authentication
 
         }
 
-        public  AuthenticationResult Register(string firstName, string lastName, string email, string password)
+        public  ErrorOr<AuthenticationResult>  Register(string firstName, string lastName, string email, string password)
         {
             // if( _userRepository.GetUserByEmail(email) is not null ){
-                
-                throw new DuplicateEmailException();
+                return Errors.Authentication.DuplicateEmail ;
             // }
 
             User user = new User () {
@@ -38,14 +38,14 @@ namespace BnBEata.application.Services.Authentication
             return new AuthenticationResult( userId,firstName, lastName,email,token);
         }
 
-        public AuthenticationResult Login(string email, string password)
+        public ErrorOr<AuthenticationResult>  Login(string email, string password)
         {
             if(_userRepository.GetUserByEmail(email) is not User user){
-                throw new NotFoundException("User Not Found");
+                return Errors.Authentication.IncorrectPassword;
             }
 
             if(user.Password != password){
-                throw new BadRequestException("Incorrect Password");
+                return Errors.Authentication.IncorrectPassword;
             }
             var token = _jwtTokenGenerator.GenerateToken(user.UserId , user.FirstName , user.LastName , user.Email );
             return new AuthenticationResult(user.UserId, user.FirstName, user.LastName, email, token);

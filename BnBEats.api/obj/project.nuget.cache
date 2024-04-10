@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/Hx5KtkYvdVvo6eRe7BxnCpmUdmL7fDOXzrg0+30fGt4lI9ZgsM+KgcAZkRPGDt3+nQRMoGeQr8NbeBHbxk/Rg==",
+  "dgSpecHash": "uY01+OEUtnjkj0TcDUyTo1FEess3qiummz/O4Xj18I1xaC3DCWfaOzQNOXwAS+jvV6Dh7XKUVMPgvqnUrWvdjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.api\\BnBEats.api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

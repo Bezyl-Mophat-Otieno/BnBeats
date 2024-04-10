@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e9k/zZ62iYxMOO0Rrf1AjxpjXSQBucbOoQ7hN693JXWhpUnBNyafakIpZRGUI2Ns/Vd8ZOkVGjX9eqSHFhNz2A==",
+  "dgSpecHash": "PrkoTEZXcsxSSg/qRCj80ql/Cu5me26m7/b5fYA5AbUNF3EmND8hg+iF5Fd37nghvJeep4ASZ0WDak1E7GLt0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",

@@ -2,9 +2,8 @@ using ErrorOr;
 
 namespace BnBEats.application.Services.Authentication
 {
-    public interface IAuthenticationService
+    public interface IAuthenticationCommandService
     {
         public ErrorOr<AuthenticationResult> Register( string firstName, string lastName, string email, string password );
-        public ErrorOr<AuthenticationResult>  Login( string email, string password);
     }
 }

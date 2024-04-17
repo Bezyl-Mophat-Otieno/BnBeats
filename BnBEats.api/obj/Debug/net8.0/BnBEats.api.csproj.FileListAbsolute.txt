@@ -48,3 +48,8 @@ C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\obj\Debug\net8.0\ref
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Mapster.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

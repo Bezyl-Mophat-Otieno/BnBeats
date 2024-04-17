@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PrkoTEZXcsxSSg/qRCj80ql/Cu5me26m7/b5fYA5AbUNF3EmND8hg+iF5Fd37nghvJeep4ASZ0WDak1E7GLt0Q==",
+  "dgSpecHash": "tfwlmhY6ce3/9yuMZLus8ugYDGaUm/AkOwM4j2i8Nb8dnI1MtMHkVe2v0hlPZX+evNQBqyMwnZ2pmulKA4+72A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",

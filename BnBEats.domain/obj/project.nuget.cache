@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XR5mHmU9B0ujwEgM1AVQdGPeUiC1pryT2y7n5oPlbDkIdHOB92hdrrvXs7nEXAj1FkIKhpffNMK6AscyESGyNQ==",
+  "dgSpecHash": "aFI3SJVu0VWwBG9eosdr1L1v7zedQy3aAit3h+3kX6h3393h2uUFie9jmY76GWnkw68Cs7ehfR1MuEr96A719A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
+  "projectFilePath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
   ],

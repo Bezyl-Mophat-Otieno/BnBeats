@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj": {}
+    "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj": {
+    "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj",
+        "projectUniqueName": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj",
         "projectName": "BnBEats.application",
-        "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj",
+        "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj",
         "packagesPath": "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\obj\\",
+        "outputPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj": {
-                "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj"
+              "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj": {
+                "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -73,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj": {
+    "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
+        "projectUniqueName": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
         "projectName": "BnBEats.domain",
-        "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
+        "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
         "packagesPath": "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\obj\\",
+        "outputPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

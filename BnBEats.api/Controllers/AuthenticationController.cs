@@ -1,8 +1,10 @@
 using BnBEats.application.Services.Authentication;
 using BnBEats.contracts.Authentications;
 using ErrorOr;
-using Microsoft.AspNetCore.Http.HttpResults;
+using FluentValidation;
+using MapsterMapper;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace BnBEats.api.Controllers
 
@@ -12,11 +14,13 @@ namespace BnBEats.api.Controllers
     {
         private readonly IAuthenticationCommandService _authenticationCommandService;
         private readonly IAuthenticationQueryService _authenticationQueryService;
+        private readonly IMapper _mapper;
 
-        public AuthenticationController(IAuthenticationCommandService authenticationCommandService, IAuthenticationQueryService authenticationQueryService)
+        public AuthenticationController(IAuthenticationCommandService authenticationCommandService, IAuthenticationQueryService authenticationQueryService, IMapper mapper)
         {
             _authenticationCommandService = authenticationCommandService;
             _authenticationQueryService = authenticationQueryService;
+            _mapper = mapper;
         }
 
         [HttpPost("register")]
@@ -30,7 +34,6 @@ namespace BnBEats.api.Controllers
             return authResult.Match(
                 authResult=> Ok(authResult),
                 errors => Problem(errors)
-
             );
         }
 

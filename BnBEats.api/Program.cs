@@ -1,19 +1,21 @@
 using BnBEata.application;
 using BnBEats.api;
+using BnBEats.contracts.Authentications;
 using BnBEats.infrastructure;
+using FluentValidation;
+using FluentValidation.AspNetCore;
 
 
 var builder = WebApplication.CreateBuilder(args);
 {
     // Global Error handling using Filters
     // builder.Services.AddControllers(options=>options.Filters.Add<ErrorHandlingExceptionFilterAttribute>());
-    builder.Services.AddControllers();
-    // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-    builder.Services.AddEndpointsApiExplorer();
-    builder.Services.AddSwaggerGen();
+
     builder.Services.AddApplication();
     builder.Services.AddInfrastructure(builder.Configuration);
-
+    builder.Services.AddPresentation();
+    builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
+    builder.Services.AddValidatorsFromAssemblyContaining<IAssemblyMarker>();
     
 }
 

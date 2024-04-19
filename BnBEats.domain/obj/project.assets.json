@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
+      "projectUniqueName": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.domain\\BnBEats.domain.csproj",
       "projectName": "BnBEats.domain",
-      "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\BnBEats.domain.csproj",
+      "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.domain\\BnBEats.domain.csproj",
       "packagesPath": "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.domain\\obj\\",
+      "outputPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

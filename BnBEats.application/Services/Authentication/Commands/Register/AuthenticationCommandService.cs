@@ -1,9 +1,10 @@
 using BnBEats.application;
 using BnBEats.application.Services.Authentication;
+using BnBEats.application.Services.Authentication.Common;
 using BnBEats.domain;
 using ErrorOr;
 
-namespace BnBEata.application.Services.Authentication 
+namespace BnBEata.application.Services.Authentication.Commands.Register
 {
     public class AuthenticationCommandService : IAuthenticationCommandService
     {

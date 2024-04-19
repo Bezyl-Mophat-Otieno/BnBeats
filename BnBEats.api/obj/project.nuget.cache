@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RinSu3N0iLN/UrPgtqPRAKG+9/nW6i49qkYBuk+3BXV0eo9A/1bBtQZQhgvB08rzgu870Mmk2PABJsbMBJ/HvA==",
+  "dgSpecHash": "QuuxblDJwRNgHkEgZxh0Iymn60mrIihLJm1jWEhkgI3BZX61pyUW69Gx6RRlc4mzXU5LALsl9K54mYFyn1X1PA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.api\\BnBEats.api.csproj",
+  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.api\\BnBEats.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",

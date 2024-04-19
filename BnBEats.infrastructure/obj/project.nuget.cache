@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tfwlmhY6ce3/9yuMZLus8ugYDGaUm/AkOwM4j2i8Nb8dnI1MtMHkVe2v0hlPZX+evNQBqyMwnZ2pmulKA4+72A==",
+  "dgSpecHash": "mTWmZqEIpYgOr/oIxuXhSCjPWWAYS8m1NXn4LTdakYAjNgJdYrujllThKUUuY6dvJKGGvQNSc5BQx6MshYbCsg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",

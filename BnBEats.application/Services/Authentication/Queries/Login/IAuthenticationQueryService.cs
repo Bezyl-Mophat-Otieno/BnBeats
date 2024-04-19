@@ -1,3 +1,4 @@
+using BnBEats.application.Services.Authentication.Common;
 using ErrorOr;
 
 namespace BnBEats.application.Services.Authentication

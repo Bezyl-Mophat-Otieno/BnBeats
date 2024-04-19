@@ -1228,11 +1228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.api\\BnBEats.api.csproj",
+      "projectUniqueName": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.api\\BnBEats.api.csproj",
       "projectName": "BnBEats.api",
-      "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.api\\BnBEats.api.csproj",
+      "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.api\\BnBEats.api.csproj",
       "packagesPath": "C:\\Users\\BezylMophatOtieno\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.api\\obj\\",
+      "outputPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1253,14 +1253,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj": {
-              "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.application\\BnBEats.application.csproj"
+            "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.application\\BnBEats.application.csproj": {
+              "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.application\\BnBEats.application.csproj"
             },
-            "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.contracts\\BnBEats.contracts.csproj": {
-              "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.contracts\\BnBEats.contracts.csproj"
+            "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.contracts\\BnBEats.contracts.csproj": {
+              "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.contracts\\BnBEats.contracts.csproj"
             },
-            "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj": {
-              "projectPath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj"
+            "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj": {
+              "projectPath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.infrastructure\\BnBEats.infrastructure.csproj"
             }
           }
         }

@@ -16,3 +16,6 @@ C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.infrastructure\obj\Debug
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.infrastructure\obj\Debug\net8.0\refint\BnBEats.infrastructure.dll
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.infrastructure\obj\Debug\net8.0\BnBEats.infrastructure.pdb
 C:\Users\BezylMophatOtieno\source\repos\bnbEats\BnBEats.infrastructure\obj\Debug\net8.0\ref\BnBEats.infrastructure.dll
+c:\Users\BezylMophatOtieno\source\repos\bnbEats\src\BnBEats.infrastructure\obj\Debug\net8.0\BnBEats.infrastructure.dll
+c:\Users\BezylMophatOtieno\source\repos\bnbEats\src\BnBEats.infrastructure\obj\Debug\net8.0\refint\BnBEats.infrastructure.dll
+c:\Users\BezylMophatOtieno\source\repos\bnbEats\src\BnBEats.infrastructure\obj\Debug\net8.0\BnBEats.infrastructure.pdb

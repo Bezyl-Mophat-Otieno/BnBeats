@@ -1,5 +1,6 @@
 using BnBEats.application;
 using BnBEats.application.Services.Authentication;
+using BnBEats.application.Services.Authentication.Common;
 using BnBEats.domain;
 using ErrorOr;
 

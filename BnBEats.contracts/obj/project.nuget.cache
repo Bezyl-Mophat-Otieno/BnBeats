@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+6YPQiAfYFsdOHTN+o+Mroao5tnINqvhO/1mSKuupOU50B0bXCuvBNqSqJJMELA587fq9WDfkMUzyFXRLOSBw==",
+  "dgSpecHash": "ck6phwx3iEgBbAOnoaxUe1lqaVsZT+pTiiqcBV0uuHSuG8Vj7Vknjca8vNUTnPVHWD85o08ye9vOPjv0Fa1exw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\BnBEats.contracts\\BnBEats.contracts.csproj",
+  "projectFilePath": "C:\\Users\\BezylMophatOtieno\\source\\repos\\bnbEats\\src\\BnBEats.contracts\\BnBEats.contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BnBEats.application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd4a01152d957dc6ffdda0ec76419b4b5e739560")]
 [assembly: System.Reflection.AssemblyProductAttribute("BnBEats.application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BnBEats.application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
